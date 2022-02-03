@@ -17,8 +17,7 @@ body {
 }
 
 canvas {
-    width: 90vw;
-    height: 80vh;
+   
     border: 1px solid rgb(63, 63, 63);
     background-color: #f5f5f5;
 
@@ -28,7 +27,7 @@ canvas {
     background-color: rgb(153, 153, 153);
     border: 1px solid rgb(63, 63, 63);
     display: flex;
-    width: 90%;
+    width: 802px;
     padding: 1rem;
 
 }
